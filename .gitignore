@@ -1,0 +1,14 @@
+.idea
+.vscode
+_deps
+cmake-*
+build
+.DS_Store
+*.pdf
+
+*.bin
+*.dis
+*.hex
+*.elf
+*.elf.map
+*.uf2
